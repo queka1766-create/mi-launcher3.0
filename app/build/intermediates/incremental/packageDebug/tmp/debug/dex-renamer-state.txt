@@ -1,0 +1,7 @@
+#Fri Nov 20 04:55:33 GMT-03:00 2026
+base.0=C\:\\Users\\julim\\OneDrive\\Desktop\\Nueva carpeta\\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\julim\\OneDrive\\Desktop\\Nueva carpeta\\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+path.0=0/classes.dex
+path.1=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

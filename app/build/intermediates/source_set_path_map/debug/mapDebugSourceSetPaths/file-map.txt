@@ -1,0 +1,7 @@
+com.aigaming1766.app-pngs-0 C:\Users\julim\OneDrive\Desktop\Nueva carpeta\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\app\build\generated\res\pngs\debug
+com.aigaming1766.app-resValues-1 C:\Users\julim\OneDrive\Desktop\Nueva carpeta\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\app\build\generated\res\resValues\debug
+com.aigaming1766.app-packageDebugResources-2 C:\Users\julim\OneDrive\Desktop\Nueva carpeta\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.aigaming1766.app-packageDebugResources-3 C:\Users\julim\OneDrive\Desktop\Nueva carpeta\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.aigaming1766.app-debug-4 C:\Users\julim\OneDrive\Desktop\Nueva carpeta\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.aigaming1766.app-debug-5 C:\Users\julim\OneDrive\Desktop\Nueva carpeta\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\app\src\debug\res
+com.aigaming1766.app-main-6 C:\Users\julim\OneDrive\Desktop\Nueva carpeta\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\app\src\main\res

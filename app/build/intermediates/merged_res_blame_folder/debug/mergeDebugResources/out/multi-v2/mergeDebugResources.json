@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aigaming1766.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\julim\\OneDrive\\Desktop\\Nueva carpeta\\1766_AI_GAMING_ANDROID_PROYECTO_CORREGIDO (7)\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "402"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "441"
+                    }
+                }
+            ]
+        }
+    ]
+}
